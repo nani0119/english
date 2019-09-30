@@ -161,3 +161,8 @@ appropriate
 harmless
 stray
 granularity
+backfire
+cure
+propagate
+adhere
+abide
