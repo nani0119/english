@@ -166,3 +166,10 @@ cure
 propagate
 adhere
 abide
+fraction
+slight
+penalty
+defer
+relinquish
+coarse
+whammy
